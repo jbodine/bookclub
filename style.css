@@ -22,20 +22,28 @@ a {
   text-decoration: none;
 }
 
-  a:hover {
+a:hover {
   text-decoration: underline;
 }
 
-.highlight {
-    background-color: #e0e0e0;
+.category {
+  background-color: #e0e0e0;
+}
+
+.chapter {
+  text-decoration: underline;
 }
 
 .title {
-
+  background-color: #e0e0e0;
 }
 
 .author {
+  color: #161616;
+}
 
+.highlight {
+  background-color: #fff2ac;
 }
 
 h1 {
@@ -49,11 +57,20 @@ h2 {
   font-weight:400;
 }
 
-section {
+h3 {
+  font-size: 1rem;
+}
 
+section {
   padding-top: 1rem;
   padding-bottom: 1rem;
-     }
+}
+
+summary {
+  padding-top: 16px;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 32px;
+}
 
 line-break {
   border-top: 1px solid #e0e0e0;
