@@ -1,0 +1,61 @@
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: 'IBM Plex Serif', serif; Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-size: 1rem;
+  line-height: 2rem;
+  font-weight:400;
+  color: #161616;
+  background: #FAFAFA;
+  margin: 0 auto;
+  position: relative;
+  top:30px;
+  margin-bottom: 30px;
+  max-width: 500px;
+  padding: 40px;
+}
+
+a {
+  color: #0f62fe;
+  text-decoration: none;
+}
+
+  a:hover {
+  text-decoration: underline;
+}
+
+.highlight {
+    background-color: #e0e0e0;
+}
+
+h1 {
+  font-size: 1rem;
+  font-weight:400;
+
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight:400;
+}
+
+section {
+
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+     }
+
+line-break {
+  border-top: 1px solid #e0e0e0;
+  padding-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #e0e0e0;
+}
+
+mark {
+  background-color: #70eadd;
+}
