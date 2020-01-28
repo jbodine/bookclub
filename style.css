@@ -30,9 +30,6 @@ a:hover {
   background-color: #e0e0e0;
 }
 
-.chapter {
-  text-decoration: underline;
-}
 
 .title {
   background-color: #e0e0e0;
@@ -43,12 +40,13 @@ a:hover {
 }
 
 .highlight {
-  background-color: #fff258;
+  background-color: #fcff29;
 }
 
 h1 {
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight:400;
+  padding-bottom: 1rem;
 
 }
 
@@ -58,7 +56,8 @@ h2 {
 }
 
 h3 {
-  font-size: 1rem;
+  font-size: 1.25rem;
+  font-weight:400;
 }
 
 section {
@@ -83,4 +82,12 @@ footer {
 
 mark {
   background-color: #70eadd;
+}
+
+blockquote {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  padding-left: 15px;
+  border-left: 3px solid #e0e0e0;
 }
