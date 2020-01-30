@@ -40,7 +40,7 @@ a:hover {
 }
 
 .highlight {
-  background-color: #FFFF66;
+  background-color: #70eadd;
 }
 
 h1 {
@@ -80,7 +80,8 @@ footer {
 }
 
 mark {
-  background-color: #70eadd;
+  background-color: #FFFF66;
+
 }
 
 blockquote {
