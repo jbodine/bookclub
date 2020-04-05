@@ -84,6 +84,11 @@ mark {
 
 }
 
+.booklist {
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}
+
 blockquote {
   margin-top: 20px;
   margin-bottom: 20px;
